@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An epistle of the famous clerke Erasmus of Roterodame, concernynge the veryte of the sacrament of Ch
+
+1. To the deuoute and good Christian Reader.
+
 #####Body#####
-An epistle of the famous clerke Erasmus of Roterodame, concernynge the veryte of the sacrament of Ch
+
+1. ¶An Epystle of Erasmus wryten to Balthazar Byshop of Hyldesyn.
+
 #####Back#####
-An epistle of the famous clerke Erasmus of Roterodame, concernynge the veryte of the sacrament of Ch
+¶Imprynted by me Robert Wyer.¶Cum priuilegio, ad imprimendum solum.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
